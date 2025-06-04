@@ -1,6 +1,6 @@
 # 👋 Mogge!
 
-## Projects
+## 👨‍🚒 Working on
 - 🏫 **Studying:** Sales
 - 💻 **developer at:** Meetix
 
