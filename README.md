@@ -1,7 +1,6 @@
 # 👋 Mogge!
 
 ## 👨‍🚒 Working on
-- 🏫 **Studying:** Sales
 - 💻 **developer at:** Meetix
 
 ## 📚 Learning
