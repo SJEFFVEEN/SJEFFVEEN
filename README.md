@@ -1,7 +1,7 @@
 # 👋 Mogge!
 
 ## 👨‍🚒 Currently doing..
-- 💻 **Lead Developer at:** Meetix
+- 💻 **Systeembeheer at:** Meetix
 
 ## 📚 Learning
 - JavaScript
