@@ -5,7 +5,6 @@
 
 ## 📚 Learning
 - JavaScript
-- Linux
 
 ## ⚖ Info
 - **Most Used:** JavaScript, Lua, Golang & Python
